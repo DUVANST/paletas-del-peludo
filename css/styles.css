@@ -11372,7 +11372,7 @@ p {
   border-radius: 100%;
 }
 #mainNav {
-  background-image: url("/nav-bg.jpg");
+  background-image: url("../assets/img/nav-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
