@@ -46,7 +46,7 @@
         <div class="container">
             <div class="masthead-subheading">¡Bienvenido a la cima!</div>
             <div class="masthead-heading text-uppercase">Ta'jendo como calor no ole?
-                <img src="../assets/img/hot.png" alt="" id="hot">
+                <img src="assets/img/hot.png" alt="" id="hot">
             </div>
             <a class="btn btn-primary btn-xl text-uppercase" href="#portfolio">Muestráme las paletas</a>
         </div>
